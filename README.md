@@ -36,7 +36,7 @@ https://github.com/Alex2nder/netology_git/commit/ea2d17cc3d8861a0e4880c2a9e4934c
 
 
 ```
-https://github.com/Alex2nder/netology_git/commit/0351a7f1af0e2a7b1102c6b58b59afb0892d6d4e
+https://github.com/Alex2nder/netology_git/commit/a6469cfdc5118a81135bc115967f5d9a077a3b74
 
 ```
 
