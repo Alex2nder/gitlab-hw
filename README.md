@@ -27,7 +27,8 @@
 
 ```
 https://github.com/Alex2nder/netology_git/commit/ea2d17cc3d8861a0e4880c2a9e4934cd234a0976
-....
+
+---
 
 
 ### Задание 2
@@ -44,7 +45,10 @@ https://github.com/Alex2nder/netology_git/commit/0351a7f1af0e2a7b1102c6b58b59afb
 
 ```
 https://github.com/Alex2nder/netology_git/network
-....
+
+---
+
+
 ....
 ....
 ....
