@@ -25,29 +25,28 @@
 ### Задание 1
 
 
-```
-https://github.com/Alex2nder/netology_git/commit/ea2d17cc3d8861a0e4880c2a9e4934cd234a0976
 
-```
+![Jenkins](img/jenkins_project.png)
+
+
+
 
 
 ### Задание 2
 
 
 
-```
-https://github.com/Alex2nder/netology_git/commit/a6469cfdc5118a81135bc115967f5d9a077a3b74
 
-```
+![Jenkins declarative](img/jenkins_project3.png)
+
 
 ### Задание 3
 
 
-```
-https://github.com/Alex2nder/netology_git/network
 
-```
+![Jenkins and Nexus declarative](img/jenkins_nexus1.png)
 
+![Jenkins and Nexus declarative](img/jenkins_nexus2.png)
 
 ....
 ....
